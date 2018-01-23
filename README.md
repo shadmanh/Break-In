@@ -1,5 +1,7 @@
 # Break-In
 
+## By: Shadman Hassan
+
 This game requires the use of JDK 8 (Java 1.8) in order to run properly. It was edited in the IntelliJ IDE and thus has this file/folder
 format.
 
