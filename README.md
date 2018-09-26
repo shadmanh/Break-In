@@ -15,4 +15,5 @@ impact with anything. If the player is able to hit the ball back or scores point
 remark/comment. Good luck Breaking In!
 
 Everything is written/created by me except for the tennis sprites and music/sound effects.
+
 *NEW* Gameplay footage can be found at: https://youtu.be/pSdjqUmY8ME
