@@ -14,4 +14,5 @@ displayed. The game plays a random soundtrack each time the game is started and 
 impact with anything. If the player is able to hit the ball back or scores points, the character has a chance to make a random
 remark/comment. Good luck Breaking In!
 
-Everything is written/created by me except for the tennis sprites and music/sound effects. 
+Everything is written/created by me except for the tennis sprites and music/sound effects.
+*NEW* Gameplay footage can be found at: https://youtu.be/pSdjqUmY8ME
