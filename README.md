@@ -2,8 +2,7 @@
 
 ## By: Shadman Hassan
 
-This game requires the use of JDK 8 (Java 1.8) in order to run properly. It was edited in the IntelliJ IDE and thus has this file/folder
-format.
+This game requires the use of JDK 8 (Java 1.8) in order to run properly. It was edited in the IntelliJ IDE and thus has this directory format.
 
 This game is a variation of Breakout, but with the theme of breaking in instead. The player controls a character
 trying to break into a random house on the street with nothing more than a racket and tennis ball, destroying everything in
