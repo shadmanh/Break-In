@@ -2,6 +2,8 @@
 
 ## By: Shadman Hassan
 
+*NEW* Gameplay footage can be found at: https://youtu.be/pSdjqUmY8ME
+
 This game requires the use of JDK 8 (Java 1.8) in order to run properly. It was edited in the IntelliJ IDE and thus has this directory format.
 
 This game is a variation of Breakout, but with the theme of breaking in instead. The player controls a character
@@ -15,5 +17,3 @@ impact with anything. If the player is able to hit the ball back or scores point
 remark/comment. Good luck Breaking In!
 
 Everything is written/created by me except for the tennis sprites and music/sound effects.
-
-*NEW* Gameplay footage can be found at: https://youtu.be/pSdjqUmY8ME
